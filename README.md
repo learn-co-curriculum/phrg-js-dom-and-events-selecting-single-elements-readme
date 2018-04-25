@@ -98,4 +98,4 @@ The DOM will become increasingly important as we use JavaScript and jQuery to ma
 + [MDN Document Properties](https://developer.mozilla.org/en-US/docs/Web/API/Document)
 + [MDN EventTarget.addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-jquery-dom-reading'>The DOM</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG The DOM</p>

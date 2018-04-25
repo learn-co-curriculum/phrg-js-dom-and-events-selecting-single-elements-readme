@@ -6,3 +6,5 @@ languages:
   - jQuery
 resources: 
   - 3
+
+parent_template: git@github.com:learn-co-curriculum/js-dom-and-events-selecting-single-elements-readme.git
