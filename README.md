@@ -92,6 +92,9 @@ $("p");
 
 The DOM will become increasingly important as we use JavaScript and jQuery to manipulate our sites.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-dom-and-events-selecting-single-elements-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-dom-and-events-selecting-single-elements-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 
 + [MDN DOM Introduction](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
